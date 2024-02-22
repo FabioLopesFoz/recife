@@ -28,11 +28,24 @@ img {
     max-width: 400px;
 }
 
-.rede-social {
+.media-social {
     font-family: 'Segoe UI', Verdana, sans-serif;
     margin: 8px;
   }
 
-  ul {
+ul {
     list-style: none;
+    display: flex;
+    justify-content: flex-end;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row-reverse;
+}
+
+li, .media-social {
+    margin-left: 48px;
   }
