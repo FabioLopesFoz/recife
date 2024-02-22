@@ -1,0 +1,38 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header, footer {
+    background: #378c6b;
+    color: white;
+    padding: 18px;
+  }
+
+.logo {
+    font-size: 35px;
+}
+
+main {
+    background-color: #869af0;
+    padding: 16px;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+img {
+    margin: 32px;
+    max-width: 400px;
+}
+
+.rede-social {
+    font-family: 'Segoe UI', Verdana, sans-serif;
+    margin: 8px;
+  }
+
+  ul {
+    list-style: none;
+  }
